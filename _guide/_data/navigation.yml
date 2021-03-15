@@ -36,6 +36,10 @@ approach:
     href: /incident-reports/
   - text: Architecture Reviews
     href: /architecture-reviews/
+  - text: Front-End Disciplines
+    href: /frontend/
+  - text: Example Workflows
+    href: /example-workflows
 
 tools:
   - text: Tools
@@ -75,43 +79,6 @@ languages:
   - text: CSS
     href: /css/
 
-# TODO: figure out how to nest links
-css:
-  - text: CSS
-    href: /css/
-  - text: Architecture
-    href: /css/architecture/
-  - text: Documentation
-    href: /css/documentation/
-  - text: Frameworks
-    href: /css/frameworks/
-  - text: Formatting
-    href: /css/formatting/
-  - text: Inheritance
-    href: /css/inheritance/
-  - text: Linting
-    href: /css/linting/
-  - text: Naming
-    href: /css/naming/
-  - text: Preprocessors
-    href: /css/preprocessors/
-  - text: Specificity
-    href: /css/specificity/
-  - text: Units
-    href: /css/units/
-  - text: Variables
-    href: /css/variables/
-
-# TODO: figure out how to nest links
-js:
-  - text: JavaScript
-    href: /javascript/
-  - text: Dependencies
-    href: /javascript/dependencies/
-  - text: Frameworks
-    href: /javascript/frameworks/
-  - text: Style / Linting
-    href: /javascript/style/
 
 # TODO: figure out how to nest links
 security:
